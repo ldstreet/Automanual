@@ -3,6 +3,14 @@
 Automanual helps make uploading transactions to YNAB quick and easy by using text recognition to parse screenshots of your bank transactions.
 
 ## How to use
+**Adding Siri shortcut:**
+                            
+1. [Download the shortcut](https://www.icloud.com/shortcuts/e2bd42ce39f347b2b45e9534440a1171)
+2. **Select Shortcut to run when triple tapping the back of your phone.**
+Settings -> Accessibility -> Touch -> Back Tap -> Double Tap -> Automanual
+3. When screen is showing transaction, double tap the back of the phone to capture the screenshot and launch Automanual. 
+
+**Using share sheet:**
 1. Take a screenshot of your transaction.
 <details><summary>Notification</summary>
   <img src="https://user-images.githubusercontent.com/7925830/164497951-faf70470-fefa-498f-aca5-4f0cc71273a8.jpeg" 
