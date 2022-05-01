@@ -19,6 +19,7 @@ alt="Cheetah!" />
 ## Supported Cards/Banks
 * Apple Card (notifications and detail screens) 
 * Capital One (notification)
+* One Financial (notification)
 * More to come.
 
 ## Download
